@@ -1,17 +1,17 @@
 # Site settings
-title:       Pixyll
-email:       your_email@example.com
-author:      John Otander
-description: "A simple, beautiful theme for Jekyll that emphasizes content rather than aesthetic fluff."
+title:       阿牛
+email:       ahnniu@gmail.com
+author:      Yongjia Niu
+description: "专注嵌入式，关注互联网，物联网"
 baseurl:     ""
-url:         "http://pixyll.com"
+url:         "http://ahnniu.github.io"
 date_format: "%b %-d, %Y"
 
 # Google services
 google_verification:
 # Use either direct GA implementation or set up GTM account
 # - using both will skew your data (leave blank to not use at all)
-google_analytics:
+google_analytics: UA-50785752-1
 google_tag_manager:
 # Bing services
 bing_verification:
@@ -33,7 +33,7 @@ fb_page_id:
 
 # Disqus post comments
 # (leave blank to disable Disqus)
-disqus_shortname:
+disqus_shortname: ahnniu-github-io
 
 # Facebook Comments plugin
 # (leave blank to disable Facebook Comments, otherwise set it to true)
@@ -42,11 +42,11 @@ facebook_appid:
 facebook_comments_number: 10
 
 # Social icons
-github_username:
+github_username: ahnniu
 bitbucket_username:
 stackoverflow_id:
-twitter_username:
-skype_username:
+twitter_username: ahnniu
+skype_username: ahnniu
 steam_nickname:
 google_plus_id:
 linkedin_username:
